@@ -1,2 +1,1 @@
-# second-repository
-a simple learning repository
+THIS IS GITHUB
